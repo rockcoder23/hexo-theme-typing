@@ -28,7 +28,7 @@ fb_app_id:
 
 # Profile
 nickname: fexnotes
-description: I am a web developer, mybe like you. I record my thought & views here,You can share yours via comments or [email](mailto:rockcoder@126.com)
+description: I am a web developer, mybe like you. I record my thought & views here,   You can share yours via comments or [email](mailto:rockcoder@126.com)
 
 
 # Load fontawesome icons? Also see the links option
@@ -48,9 +48,9 @@ links:
 nav: left
 
 # Info
-archive_footer_content: I am a web developer, mybe like you. I record my thought & views here,You can share yours via comments or [email](mailto:rockcoder@126.com)
+archive_footer_content: I am a web developer, mybe like you. I record my thought & views here, You can share yours via comments or [email](mailto:rockcoder@126.com)
 
-post_footer_content: I am a web developer, mybe like you. I record my thought & views here,You can share yours via comments or [email](mailto:rockcoder@126.com)
+post_footer_content: I am a web developer, mybe like you. I record my thought & views here, You can share yours via comments or [email](mailto:rockcoder@126.com)
 
 # Utterances
 # NOTICE) make sure the app is installed on the repo before using this commit system
