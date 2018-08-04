@@ -48,8 +48,9 @@ links:
 nav: left
 
 # Info
-archive_footer_content: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** Fusce eget urna vitae velit *eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque* penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Archive
-post_footer_content: ipsum dolor sit amet, **consectetur adipiscing elit.** Fusce eget urna vitae velit *eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque* penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Post
+archive_footer_content: I am a web developer, mybe like you. I record my thought & views here,You can share yours via comments or [email](mailto:rockcoder@126.com)
+
+post_footer_content: I am a web developer, mybe like you. I record my thought & views here,You can share yours via comments or [email](mailto:rockcoder@126.com)
 
 # Utterances
 # NOTICE) make sure the app is installed on the repo before using this commit system
