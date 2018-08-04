@@ -54,8 +54,8 @@ post_footer_content: ipsum dolor sit amet, **consectetur adipiscing elit.** Fusc
 # NOTICE) make sure the app is installed on the repo before using this commit system
 # see https://utteranc.es/ for more
 utterances:
-  enable: false
-  repo: # your repo in this format: 'username/reponame', note that there is no '.git' suffix
+  enable: true
+  repo: rockcoder23/blog.fexnotes.com # your repo in this format: 'username/reponame', note that there is no '.git' suffix
 
 # Donate
 donate:
