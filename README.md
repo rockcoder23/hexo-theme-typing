@@ -1,6 +1,6 @@
 # Typing
 
-> A pure and fresh Hexo theme.
+> A pure and fresh Hexo theme fork from [hexo-theme-typing@geekplux](https://github.com/geekplux/hexo-theme-typing)
 
 * Minimal And Clean Design
 * Dark And Light Modes
@@ -11,21 +11,13 @@
 - [My blog](http://geekplux.com)
 - [Online Demo](http://geekplux.github.io/hexo-theme-typing/)
 
-![](preview/preview.png)
-
-##### Dark mode
-
-![](preview/preview-dark-mode.png)
-
-Other preview images in `preview` folder.
-
 ## Installation
 
 ### Install
 
 ```shell
-cd your-blog
-git clone https://github.com/geekplux/hexo-theme-typing themes/typing
+cd your-blog/themes
+git clone https://github.com/geekplux/hexo-theme-typing typing
 ```
 
 **Typing requires Hexo 2.4 and above.**
@@ -89,14 +81,6 @@ nav: top
 archive_footer_content: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
 post_footer_content: ipsum dolor sit amet, **consectetur adipiscing elit.** Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
 
-# Gitment
-gitment:
-  owner:
-  repo:
-  client:
-    id:
-    secret:
-
 # Donate
 donate:
   github:
@@ -127,7 +111,7 @@ donate:
 
 - [CHANGELOG](CHANGELOG.md)
 
-## Development
+## Contributing
 
 Anyone is welcome to contribute!
 
@@ -149,16 +133,3 @@ cd ../hexo-theme-unit-test
 hexo server
 ```
 Now you can browse it at [127.0.0.1:4000](http://127.0.0.1:4000/)
-
-
-### LICENSE
-
-Typing © [@geekplux](https://github.com/geekplux), Released under the [MIT](LICENSE) License.
-
-Authored and maintained by [@geekplux](https://github.com/geekplux) with help from contributors ([list](https://github.com/geekplux/hexo-theme-typing/graphs/contributors)).
-
----
-
-> Blog [geekplux.com](http://geekplux.com) &nbsp;&middot;&nbsp;
-> GitHub [@geekplux](https://github.com/geekplux) &nbsp;&middot;&nbsp;
-> Twitter [@geekplux](https://twitter.com/geekplux)
